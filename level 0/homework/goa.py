@@ -4,14 +4,14 @@ speed(30)
 color("black")
 shape("turtle")
 
-
-
-forward(200)
-left(90)
+wd'akwjd;akwldjkghkamda
 
 forward(200)
 left(90)
 
+forward(200)
+left(90)
+dwdw
 forward(200)
 left(90)
 
